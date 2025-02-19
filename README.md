@@ -12,9 +12,9 @@ The dataset was taken from Kaggle, collected from syarah.com
 - **Jupyter Notebook** for analysis and visualization
 
  ## Conclusion we got from this dataset   
-Car brand and model dominate pricing, while numerical factors (mileage, engine size) play secondary roles.
-XGBoost is the best model, achieving an 81% accuracy in predicting used car prices.
-Mileage & Car Age – Affect price but are less significant than brand/model.
-Region: Riyadh, Jeddah, and Dammam have the highest average prices. -Fuel Type: Hybrid and Diesel cars tend to have higher prices than gasoline cars.
-Options (Trims): Full-option cars are much more expensive than Standard versions.
-Transmission Type: Automatic cars are priced significantly higher than manual ones but not much.
+-Car brand and model dominate pricing, while numerical factors (mileage, engine size) play secondary roles.
+-XGBoost is the best model, achieving an 81% accuracy in predicting used car prices.
+-Mileage & Car Age – Affect price but are less significant than brand/model.
+-Region: Riyadh, Jeddah, and Dammam have the highest average prices. -Fuel Type: Hybrid and Diesel cars tend to have higher prices than gasoline cars.
+-Options (Trims): Full-option cars are much more expensive than Standard versions.
+-Transmission Type: Automatic cars are priced significantly higher than manual ones but not much.
